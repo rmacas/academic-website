@@ -11,7 +11,7 @@ address:
 #  postcode: '94305'
 #  country: United States
 
-# summary: kur tas summary.
+summary: kur tas summary.
 abstract: "ideti abstracta"
 
 # Talk start and end times.
