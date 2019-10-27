@@ -1,15 +1,15 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: Search For Gravitational Waves Associated With Gamma-Ray Bursts During The Second Advanced LIGO-Virgo Observing Run
+event: Amaldi/GR22
+event_url: https://www.gr22amaldi13.com/
 
-location: Source Themes HQ
+location: Valencia, Spain
 address:
 #  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+#  city: Stanford
+#  region: CA
 #  postcode: '94305'
-  country: United States
+#  country: United States
 
 summary: An example talk using Academic's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
