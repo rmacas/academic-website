@@ -1,5 +1,5 @@
 ---
-title: AMaldi example
+title: Search For Gravitational Waves Associated With Gamma-Ray Bursts During The Second Advanced LIGO-Virgo Observing Run
 event: Amaldi/GR22
 event_url: https://www.gr22amaldi13.com/
 
@@ -11,7 +11,7 @@ address:
 #  postcode: '94305'
 #  country: United States
 
-summary: An example talk using Academic's Markdown slides feature.
+summary: kur tas summary.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
