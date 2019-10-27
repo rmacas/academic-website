@@ -4,21 +4,14 @@ event: Amaldi/GR22
 event_url: https://www.gr22amaldi13.com/
 
 location: Valencia, Spain
-address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
 
-# summary: An example talk using Academic's Markdown slides feature.
 abstract: "aaaaaa cia mano abstractas"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: "2030-06-01T13:00:00Z"
+date: "2019-06-01T13:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
-# all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 # publishDate: "2017-01-01T00:00:00Z"
