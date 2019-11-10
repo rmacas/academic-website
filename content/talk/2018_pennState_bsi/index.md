@@ -1,5 +1,5 @@
 ---
-title: Unmodeled source reconstruction with gravitational waves
+title: Gravitational-wave Bursts: Searching for the Unknown
 event: Classical and Quantum Gravity Seminar Series
 event_url: https://www.gr22amaldi13.com/
 
