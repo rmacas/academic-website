@@ -1,7 +1,7 @@
 ---
 title: Gravitational-wave bursts: searching for the unknown
 event: Classical and Quantum Gravity Seminar Series
-event_url: 
+event_url: "aa"
 
 location: State College, PA, USA
 
