@@ -1,5 +1,5 @@
 ---
-title: "Gravitational-wave Bursts:Searching"
+title: "Gravitational-wave Bursts: Searching for the Unknown"
 event: Classical and Quantum Gravity Seminar Series
 event_url: "" 
 
