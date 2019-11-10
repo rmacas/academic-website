@@ -5,11 +5,24 @@ event_url: https://www.gr22amaldi13.com/
 
 location: Valencia, Spain
 
-abstract: "aaaaaa cia mano abstractas"
+abstract: "Gamma-ray bursts (GRBs) are one of the most violent phenomena in the
+universe. They are generally divided into two categories: short-duration bursts
+created by a collision of two compact sources such as binary neutron stars; and
+long-duration bursts that are powered by the core collapse of rapidly rotating
+massive stars. We expect GRBs to be intrinsically linked to gravitational-wave
+(GW) emission, providing an opportunity for multimessenger astronomy. In this
+talk, I will present results from targeted GW searches associated with GRBs
+during the second Advanced LIGO-Virgo observing run. We have analyzed 42 (98)
+GRBs with modeled (unmodeled) searches and found no candidates other than
+GW170817. I will briefly discuss the case of GW170817-GRB170817A, as well as
+results for non-detections: analysis of subthreshold GRB population and lower
+bounds on the median source distance for various scenarios of GW emission.
+Finally, I will discuss the implications of these results for source rates and
+future observing runs."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-06-01T13:00:00Z"
+date: "2019-07-10T13:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
