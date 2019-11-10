@@ -3,7 +3,7 @@ title: Search For Gravitational Waves Associated With Gamma-Ray Bursts During Th
 event: National Astronomy Meeting
 event_url: https://nam2019.org/
 
-location: Hull, United Kingdom
+location: Lancaster, United Kingdom
 
 abstract: "Gamma-ray bursts (GRBs) are one of the most violent phenomena in the
 universe. They are generally divided into two categories: short-duration bursts
