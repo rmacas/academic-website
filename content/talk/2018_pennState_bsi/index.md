@@ -1,7 +1,7 @@
 ---
-title: Gravitational-wave Bursts
+title: "Gravitational-wave Bursts"
 event: Classical and Quantum Gravity Seminar Series
-event_url: https://www.gr22amaldi13.com/
+event_url: "" 
 
 location: State College, PA, USA
 
