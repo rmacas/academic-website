@@ -1,20 +1,20 @@
 ---
-title: Gravitational-wave Bursts: Searching for the Unknown
+title: Gravitational-wave Bursts
 event: Classical and Quantum Gravity Seminar Series
 event_url: https://www.gr22amaldi13.com/
 
 location: State College, PA, USA
 
-abstract: "Parameter estimation of all gravitational-wave signals detected so
-far relies on precise source models. They are usually limited to alread known
-objects making them unsuitable for interpreting new unknown sources. Current
-and future gravitational-wave detectors will give unparalleled amounts of data
-with prospects of observing unknown objects, therefore an alternative method
-for extracting source properties is needed. In this talk I will present a novel
-method to reconstruct source properties by decomposing the source mass density
-perturbation. Our algorithm is able to reconstruct compact binary coalescences
-such as GW150914, as well as several other example cases. I will end the talk
-by discussing the method's limitations and possible improvements."
+abstract: "Gravitational waves (GWs) have been detected for the first time in
+2015 and so far all detections were made using templates for well-modelled
+binary inspiral systems. However, an unexpected source requires a non-templated
+analysis and many burst algorithms are robust for that. I will start the
+presentation by explaining burst types and their search methods; special focus
+will be given to Gamma-ray burst searches using external triggers. Some burst
+algorithms are able to reconstruct the gravitational waveform, a key piece of
+information once an unknown source is detected. I will talk about a recent
+study of waveform reconstruction using Bayeswave, as well as a new method to
+interpret unmodelled GW burst signals."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
