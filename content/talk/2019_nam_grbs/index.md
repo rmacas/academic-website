@@ -1,9 +1,9 @@
 ---
 title: Search For Gravitational Waves Associated With Gamma-Ray Bursts During The Second Advanced LIGO-Virgo Observing Run
-event: Amaldi/GR22
-event_url: https://www.gr22amaldi13.com/
+event: National Astronomy Meeting
+event_url: https://nam2019.org/
 
-location: Valencia, Spain
+location: Hull, United Kingdom
 
 abstract: "Gamma-ray bursts (GRBs) are one of the most violent phenomena in the
 universe. They are generally divided into two categories: short-duration bursts
@@ -22,7 +22,7 @@ future observing runs."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-07-10:13:00:00Z"
+date: "2019-07-03T13:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
