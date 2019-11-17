@@ -25,10 +25,6 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "ML"
-    category = "GWs"
-    publication_type = "Article"
-    exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
