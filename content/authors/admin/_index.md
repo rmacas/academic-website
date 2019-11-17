@@ -69,9 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I am a 4th year PhD student at Cardiff University Gravity Exploration
-Institute. My research interests include theory and
-data analysis of unmodelled gravitational-wave burst signals with the Advanced
-LIGO and Virgo detectors, as well as multi-messenger astronomy. I graduated
-from the University of glasgow with an MSci in Physics and Astronomy in 2016.
+I am a 4th year PhD student at Cardiff University working on the theory and data analysis of unmodelled gravitational-wave burst signals with the Advanced LIGO and Virgo detectors.
+
 
