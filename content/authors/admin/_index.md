@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ronaldas Macas
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "My research interests include gravitational waves, multi-messenger
+astronomy and astrophysics."
 
 interests:
 - Gravitational Waves
