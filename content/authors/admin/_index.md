@@ -22,6 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Gravitational Waves
+- "Multi-Messenger Astronomy"
 - Astrophysics
 - Data Analysis
 
