@@ -44,6 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: cv
+  icon_pack: ai
+  link: https://happy-volhard-4f39b9.netlify.com/files/cv.pdf
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-6096-8297
@@ -66,4 +69,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 4th year PhD student at Cardiff University working on the theory and
+data analysis of unmodelled gravitational-wave burst signals with the Advanced
+LIGO and Virgo detectors. 
+
