@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://academic.oup.com/mnras/article-abstract/479/2/2374/5046493
+url_pdf: https://arxiv.org/pdf/1804.05709.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://iopscience.iop.org/article/10.1088/1361-6382/aaf76d
+url_pdf: https://arxiv.org/pdf/1807.01939.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

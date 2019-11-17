@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://iopscience.iop.org/article/10.3847/2041-8213/aa920c
+url_pdf: https://iopscience.iop.org/article/10.3847/2041-8213/aa920c/pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

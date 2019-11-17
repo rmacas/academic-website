@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/1907.01443
+url_pdf: https://arxiv.org/pdf/1907.01443.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
