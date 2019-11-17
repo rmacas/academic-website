@@ -6,7 +6,7 @@ authors:
 - admin
 - Patrick J. Sutton
 date: "2019-02-01T00:00:00Z"
-doi: ""
+doi: "10.1088/1361-6382/aaf76d"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -63,7 +63,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}

@@ -4,7 +4,7 @@ GW170817 and GRB 170817A"
 authors:
 - B. P. Abbott et al.
 date: "2017-10-01T00:00:00Z"
-doi: ""
+doi: "10.3847/2041-8213/aa920c"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -61,7 +61,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}

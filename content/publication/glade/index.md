@@ -3,7 +3,7 @@ title: "GLADE: A galaxy catalogue for multimessenger searches in the advanced gr
 authors:
 - Dalya et al.
 date: "2018-06-01T00:00:00Z"
-doi: ""
+doi: "10.1093/mnras/sty1703"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -60,7 +60,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
