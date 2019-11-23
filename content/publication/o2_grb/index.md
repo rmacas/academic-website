@@ -4,7 +4,7 @@ During the Second Observing Run of Advanced LIGO and Advanced Virgo"
 authors:
 - B. P. Abbott et al.
 date: "2019-07-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.3847%2F1538-4357%2Fab4b48"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
