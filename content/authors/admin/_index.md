@@ -18,8 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "My research interests include gravitational waves, multi-messenger
-astronomy and astrophysics."
+bio: "I am interested in data analysis and astrophysics of gravitational waves,
+and their application for multi-messenger astronomy."
 
 interests:
 - Gravitational Waves
