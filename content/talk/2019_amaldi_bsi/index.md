@@ -1,5 +1,5 @@
 ---
-title: Unmodeled source reconstruction with gravitational waves
+title: Unmodeled Source Reconstruction with Gravitational Waves
 event: Amaldi/GR22
 event_url: https://www.gr22amaldi13.com/
 
