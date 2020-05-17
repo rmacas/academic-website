@@ -69,7 +69,6 @@ user_groups:
 - Visitors
 ---
 
-# I am a 4th year PhD student at Cardiff University working on the theory and data analysis of unmodelled gravitational-wave burst signals with the Advanced LIGO and Virgo detectors.
 Analysing data from the most sensitive instrument in the world to search for exploding stars. Interested in astrophysics and multi-messenger astronomy enabled by gravitational waves.  PhD student in Gravitational Physics at Cardiff University. Member of LIGO. 
 
 
