@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Analysing data from the most sensitive instrument in the world to search for exploding stars. Interested in astrophysics and multi-messenger astronomy enabled by gravitational waves.  PhD student in Gravitational Physics at Cardiff University. Member of LIGO. 
+Analysing data from the most sensitive instrument in the world to search for exploding stars. Interested in astrophysics and multi-messenger astronomy enabled by gravitational waves. Postdoc on gravitational-wave data analysis at the University of Portsmouth. Member of LIGO. 
 
 
