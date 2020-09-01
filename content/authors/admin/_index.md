@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student in Gravitational Physics
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Cardiff University Gravity Exploration Institute
+- name: University of Portsmouth
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,16 +22,16 @@ bio: "I am interested in data analysis and astrophysics of gravitational waves,
 and their application for multi-messenger astronomy."
 
 interests:
-- Gravitational Waves
-- "Multi-Messenger Astronomy"
+- Gravitational waves
+- "Multi-messenger astronomy"
 - Astrophysics
-- Data Analysis
+- Data analysis
 
 education:
   courses:
   - course: PhD in Gravitational Physics 
     institution: Cardiff University
-    year: 2016+
+    year: 2016-2020
   - course: MSci in Physics and Astronomy
     institution: University of Glasgow
     year: 2011-2016
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:MacasR@cardiff.ac.uk'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ronaldas.macas@port.ac.uk'  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
   link: https://happy-volhard-4f39b9.netlify.com/files/cv.pdf
